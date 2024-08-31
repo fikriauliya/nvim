@@ -1,0 +1,36 @@
+<S-h>       Prev buffer
+<S-l>       Next buffer
+<leader>`   Switch to other buffer
+<leader>bd  Delete buffer
+gcc         Comment
+]q          Next Quickfix
+]d          Next Diagnostic
+]e          Next Error
+<leader>uh  Toggle Inlay Hints
+<leader>K   Keywordprg
+K           Method description
+<leader>cf  Format
+<leader>u   UI Toggles
+<leader>g   LazyGit
+<leader>qq  Quit All
+<leader>ft  Terminal (Root dir)
+<c_/>       Terminal (Root dir)
+<leader>fT  Terminal (cwd)
+<leader>-   Split Window Below
+<leader>|   Split Window Right
+<leader>wd  Delete Window
+<leader>wm  Toggle Maximize
+r           Replace one char
+
+# LSP
+gd          Goto definition
+gr          References
+gI          Goto implementation
+gy          Goto Type Definition
+gD          Goto Declaration
+]]          Next Reference
+[[          Prev Reference
+
+# Buffer
+<leader>bp  Toggle Pin
+<leader>bP  Delete Non-Pinned Buffers
